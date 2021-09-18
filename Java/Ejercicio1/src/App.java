@@ -4,8 +4,8 @@ public class App {
         int Num2 = 2;
         int NumCiclos = 10;
         int ResultadoSuma = 0;
-        Sistem.out.println(Num1);
-        Sistem.out.println(Num2);
+        System.out.println(Num1);
+        System.out.println(Num2);
         int x = 1;
         do
         {
